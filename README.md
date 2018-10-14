@@ -1,4 +1,4 @@
-### My jupyter note studying visualization using matplotlib and other libraries.
+### My jupyter notes for visualization using matplotlib and other libraries.
 I am basically learning through the Section 6 of this Udemy course. https://www.udemy.com/python-for-finance-and-trading-algorithms/learn/v4/overview
  
 Other useful references are the followings - refered in the cource above:
